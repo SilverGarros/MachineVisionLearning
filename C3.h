@@ -95,7 +95,6 @@ void c3t1_() {
 	imshow("c3t1Original image", ResFrame);
 	waitKey(0);
 }
-
 //GrayscaleImage Binarization using threshold() by OTSU(最大类间方差法/大津法) and adaptivethreshold()(区域自适应二值化)  and ThreshBinaryInv(二进制阈值)
 void c3t2() {
 	VideoCapture cap;
