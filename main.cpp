@@ -10,7 +10,6 @@ using namespace std;
 
 int main()
 {
-
 	//c3t1();
 	//c3t1_();
 	//c3t2();
@@ -20,7 +19,9 @@ int main()
 	//c4t4();
 	//c4t5();
 	//c5t123();
-	c5t4();
+	//c5t4();
+	//c5t5_0();
+	//c5t5_();
 	waitKey(0);
 	return 0;
 };
